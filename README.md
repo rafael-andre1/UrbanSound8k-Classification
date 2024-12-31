@@ -23,8 +23,8 @@ The work involves designing, training, and evaluating two deep learning classifi
 
 Additionally, we assess the models' robustness against adversarial attacks using the **DeepFool** algorithm.
 
-
-The work was carried out by:
+\
+Project developed by:
 
  - **Eduardo Passos**
  - **Pedro Fernandes**
