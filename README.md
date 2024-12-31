@@ -1,8 +1,5 @@
 ## UrbanSound8k Classification
 
-From [here](https://github.com/pmgfernandes04/Urban-Sounds-Classification.git)!
-
-
 This project, developed for **Computer Learning II**, focuses on audio preprocessing and classification of the **UrbanSound8k** dataset, using different deep learning models.
 
 This dataset contains 8732 labeled audio recordings, each up to four seconds long, categorized into the following classes:
